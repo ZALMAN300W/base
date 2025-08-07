@@ -1,0 +1,5 @@
+2025-08-07 23:24:31,686 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-07 23:24:46,203 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-07 23:26:55,578 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-07 23:51:05,552 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-08-07 23:52:59,433 - asyncio - DEBUG - Using proactor: IocpProactor
